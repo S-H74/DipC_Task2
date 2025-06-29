@@ -1,0 +1,14 @@
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\bin\Debug\net9.0\Task_2.exe
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\bin\Debug\net9.0\Task_2.deps.json
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\bin\Debug\net9.0\Task_2.runtimeconfig.json
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\bin\Debug\net9.0\Task_2.dll
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\bin\Debug\net9.0\Task_2.pdb
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.AssemblyInfoInputs.cache
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.AssemblyInfo.cs
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.dll
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\refint\Task_2.dll
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.pdb
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\Task_2.genruntimeconfig.cache
+D:\Cycle-44\Backend\Ahmed Nasser\Assignments\Week-9(Part-2)\Task_2\Task_2\obj\Debug\net9.0\ref\Task_2.dll
